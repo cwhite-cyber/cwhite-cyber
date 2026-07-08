@@ -1,6 +1,6 @@
 # Hey, I'm C 👋
 
-Transitioning into cybersecurity from a decade in customer support 
+Moving into cybersecurity from a decade in customer support 
 (retail, healthcare, and telecommunications). I learn by building — 
 every project here is something I designed, broke, debugged, and 
 documented myself.

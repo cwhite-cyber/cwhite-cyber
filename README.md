@@ -1,4 +1,4 @@
-# Hey, I'm C 👋
+# Hey, I'm Craig 👋
 
 Moving into cybersecurity from a decade in customer support 
 (retail, healthcare, and telecommunications). I learn by building — 

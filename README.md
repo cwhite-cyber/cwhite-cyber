@@ -12,10 +12,10 @@ home lab to back it up with hands-on experience.
 
 - 🖥️ **Home lab** — LibreNMS network monitoring stack on Ubuntu Server 22.04,
   running in VirtualBox with SNMP polling across multiple VMs
-                     Graylog (SIEM) for data collection, log gathering and
+                   - Graylog (SIEM) for data collection, log gathering and
   alerts visible though a dashboard running in VirtualBox 
   on Ubuntu Server 22.04
-                     Pfsense firewall to protect the segmented home lab and
+                    - Pfsense firewall to protect the segmented home lab and
   simulate outside attacks in running in VirtualBox                                   
 - 🔍 **Hack The Box** — working through machines to build offensive/defensive 
   intuition alongside the defensive lab work

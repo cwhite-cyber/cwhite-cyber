@@ -5,13 +5,18 @@ Moving into cybersecurity from a decade in customer support
 every project here is something I designed, broke, debugged, and 
 documented myself.
 
-Currently studying for CompTIA Security+ (SY0-701) and building a 
-home lab to back it up with real hands-on experience.
+I obtained my CompTIA Security+ (SY0-701) on 9/2026 and building a 
+home lab to back it up with hands-on experience.
 
 ## What I'm Building
 
 - 🖥️ **Home lab** — LibreNMS network monitoring stack on Ubuntu Server 22.04,
   running in VirtualBox with SNMP polling across multiple VMs
+                     Graylog (SIEM) for data collection, log gathering and
+  alerts visible though a dashboard running in VirtualBox 
+  on Ubuntu Server 22.04
+                     Pfsense firewall to protect the segmented home lab and
+  simulate outside attacks in running in VirtualBox                                   
 - 🔍 **Hack The Box** — working through machines to build offensive/defensive 
   intuition alongside the defensive lab work
 - 📄 **Portfolio** — documenting everything with READMEs that explain not just 
@@ -23,7 +28,7 @@ home lab to back it up with real hands-on experience.
 **Networking:** SNMP, TCP/IP, VirtualBox networking (NAT, Host-only)  
 **Stack experience:** Nginx, PHP-FPM, MariaDB, LibreNMS  
 **Tools:** Git, SSH, Nmap, Hydra, Wireshark  
-**Studying:** CompTIA Security+ SY0-701
+**Completed** CompTIA Security+ SY0-701 9/2026
 
 ## Background
 
